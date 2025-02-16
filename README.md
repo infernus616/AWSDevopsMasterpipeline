@@ -11,8 +11,6 @@ This repository contains an advanced end-to-end DevOps project that integrates v
 - We are going to deploy below game app on the K8s cluster.
 ![Snake Game Webapp](Screenshots/webapp.png)
 
-My recorded session for this project is uploaded on GeeksForGeeks - https://www.geeksforgeeks.org/batch/devops-22?tab=Live
-
 ## Project Overview
 
 ### Step 1: Fork and Customize Repository
